@@ -23,7 +23,7 @@
     "php": "^8.0",
     "ext-bcmath": "*",
     "ext-gd": "*",
-    "php3d/stl": "dev-phpunitNEWversionTEST",
+    "php3d/stl": "dev-compTest",
     "phpunit/phpunit": "^9",
     "mockery/mockery": "^1.6"
   },
