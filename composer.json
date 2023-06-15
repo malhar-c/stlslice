@@ -13,11 +13,15 @@
       "role": "Developer"
     }
   ],
+  "repositories": {
+    "type": "vcs",
+    "URL": "https://github.com/malhar-c/php3d-stl"
+  },
   "require": {
     "php": "^8.0",
     "ext-bcmath": "*",
     "ext-gd": "*",
-    "php3d/stl": "^1.0",
+    "php3d/stl": "dev-phpunitNEWversionTEST",
     "phpunit/phpunit": "^9",
     "mockery/mockery": "^1.6"
   },
