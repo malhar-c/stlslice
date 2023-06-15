@@ -14,7 +14,7 @@
     }
   ],
   "repositories": [
-    {
+    "stl": {
       "type": "vcs",
       "url": "https://github.com/malhar-c/php3d-stl"
     }
